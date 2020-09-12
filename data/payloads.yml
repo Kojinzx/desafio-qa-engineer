@@ -1,0 +1,15 @@
+register:
+  name: ""
+  email: ""
+  password: ""
+
+autenticate:
+  email: ""
+  password: ""
+
+createOrUpdateProject:
+  title: ""
+  description: ""
+  tasks:
+  - name: ""
+    assignedTo: ""

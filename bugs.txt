@@ -1,0 +1,1 @@
+Não foi encontrado nenhum bug nos testes, porém uma sugestão de melhoria, seria colocar ID's nos campos do Front para que a automação fique um pouco mais segura e não quebre caso tenha alguma modificação.

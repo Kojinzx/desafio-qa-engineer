@@ -1,0 +1,7 @@
+xPathPorProfessor: "//a[text()='Por professor']"
+xPathEnaLoiola: "//a[text()='Ena Loiola']"
+xPathCursos: "//section[@class='card-prod || js-card-prod']"
+xPathDetalhes: "(//a[text()='Detalhes'])"
+xPathValue: "//div[@class='value']"
+xPathNotificacaoCurso: "//div[text()='Gostaria de receber notificações sobre concursos e aulas gratuitas?']"
+xPathNotificacaoNao: "//button[text()='Não']"
